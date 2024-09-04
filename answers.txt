@@ -1,0 +1,3 @@
+Q2: What field could data science be applied to? Give and Example and how it might help
+
+Answer: The medical profession! Consolidating and reporting on patient data to give context and identify predictors of disease and health.
