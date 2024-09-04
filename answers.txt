@@ -1,0 +1,3 @@
+Q1: Why might be consider using git?
+
+Answer: It's a great way to collaborate on a large-scale project alongside other team members, especially in a professional context.
