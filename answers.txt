@@ -5,3 +5,12 @@ Answer: It's a great way to collaborate on a large-scale project alongside other
 Q2: What field could data science be applied to? Give and Example and how it might help
 
 Answer: The medical profession! Consolidating and reporting on patient data to give context and identify predictors of disease and health.
+
+Q3: What is the difference between merging and rebasing?
+
+Answer: Merging combines the changes made from two parent branches, whereas rebasing allows the continuation of one branch to linearly "start" at a specific point in the other branch, preventing a
+cluttered and confusing branch history.
+
+Q3: What skills do you hope to improve during this course?
+
+Answer: I hope to learn how to use the Pandas, NumPy, SciPy, and MatPlotLib libraries for future courses!
